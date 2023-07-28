@@ -35,7 +35,7 @@
                 ?>
                 <script language="javascript">
                     alert("User Login In");
-                    top.location.href = "admin/home.php";
+                    top.location.href = "admin/view.php";
                 </script>
                 <?php
                 // header("Location:home.php");
