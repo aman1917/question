@@ -15,7 +15,7 @@
 <body>
     <div class="container">
         <h2>User List</h2>
-        <a class="btn btn-info" href=" craete.php">Add User</a>
+        <a class="btn btn-info" href=" create.php">Add User</a>
         <table class="table">
             <thead>
                 <tr>
